@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Donowangun Heritage Kopi",
+    "description": "Kopi biji utuh premium dari lereng gunung, rasa kuat dan aroma khas.",
+    "image": "https://via.placeholder.com/300x200?text=Heritage+Kopi",
+    "price": 50000,  // Harga per 100g
+    "variants": ["Biji Kopi Utuh", "Kopi Bubuk (Halus)"]
+  },
+  {
+    "id": 2,
+    "name": "Kopi Donowangun Lereng",
+    "description": "Kopi bubuk halus siap seduh, cocok untuk espresso atau kopi tubruk.",
+    "image": "https://via.placeholder.com/300x200?text=Lereng+Kopi",
+    "price": 60000,  // Harga per 100g
+    "variants": ["Biji Kopi Utuh", "Kopi Bubuk (Halus)"]
+  }
+]

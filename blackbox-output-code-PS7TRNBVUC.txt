@@ -1,0 +1,18 @@
+ecommerce-kopi/
+├── backend/
+│   ├── server.js          # Server Express.js
+│   ├── data/
+│   │   └── products.json  # Data produk contoh
+│   └── package.json
+├── frontend/
+│   ├── index.html         # Halaman utama (produk)
+│   ├── cart.html          # Keranjang belanja
+│   ├── shipping.html      # Alamat pengiriman
+│   ├── payment.html       # Metode pembayaran
+│   ├── confirmation.html  # Konfirmasi pesanan
+│   ├── css/
+│   │   └── style.css      # Styling sederhana dan modern
+│   └── js/
+│       ├── app.js         # Logika utama frontend
+│       └── cart.js        # Logika keranjang
+└── README.md
